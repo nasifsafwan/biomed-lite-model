@@ -1,0 +1,9 @@
+data/
+checkpoints/
+wandb/
+mlruns/
+*.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+kaggle.json
